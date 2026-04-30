@@ -19,6 +19,6 @@ https://youtu.be/UDDl-JdkA3I?si=pyiu1hfQRY2-4rUA
 - race_env(2).wbt
 
 ## Authors
-Muna Suood Kulaib Alteneiji
-Mariam Mahmoud
-Alreem Mohammed Saeed Almeqbaali
+- Muna Suood Kulaib Alteneiji
+- Mariam Mahmoud
+- Alreem Mohammed Saeed Almeqbaali
