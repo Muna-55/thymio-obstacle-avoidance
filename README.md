@@ -15,8 +15,8 @@ This project implements obstacle avoidance and goal navigation for a Thymio robo
 https://youtu.be/UDDl-JdkA3I?si=pyiu1hfQRY2-4rUA
 
 ## Files
-- my_controller_3.py
-- race_env(2).wbt
+- my_controller.py
+- race_env.wbt
 
 ## Authors
 - Muna Suood Kulaib Alteneiji
